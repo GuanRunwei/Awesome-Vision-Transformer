@@ -76,6 +76,7 @@ email: thinkerai@foxmail.com / Runwei.Guan@liverpool.ac.uk / guanrunwei@idpt.org
 * LighTN: Light-weight Transformer Network for Performance-overhead Tradeoff in Point Cloud Downsampling [paper](https://arxiv.org/abs/2202.06263)
 * Geometric Transformer for Fast and Robust Point Cloud Registration [paper](https://arxiv.org/abs/2202.06688)
 * HiTPR: Hierarchical Transformer for Place Recognition in Point Cloud [paper](https://arxiv.org/abs/2204.05481)
+* Efficient 3D Semantic Segmentation with Superpoint Transformer [paper](https://arxiv.org/abs/2306.08045) [code](https://github.com/drprojects/superpoint_transformer)
 
 
 ## Video Processing
